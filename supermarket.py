@@ -95,4 +95,4 @@ while True:
         break
 
     else: 
-         print('You entered an invalid option'
+         print('You entered an invalid option')
